@@ -15,7 +15,7 @@ Check my [https://github.com/fairmiracle github] for details.
 A series of short tutorials given by me at our group meeting. The aim is to provide practical, transparent and reproducible technical reports related to computational biology and machine learning. 
 
 Current content (keep updating)
-- <a href="st/spectr.html">Spectral-clustering</a> 
+- [https://fairmiracle.github.io/st/spectr.html Spectral clustering]
 - Network inference
 - Modules differential analysis
 - Modules identification
