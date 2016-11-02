@@ -1,6 +1,6 @@
 = Dong Li
 
-Hi, I am a second year PhD student in Computer Science at Univiersity of Birmingham, UK. My main interests are computational biology and machine learning.
+Hi, I am a second year PhD student in [https://www.cs.bham.ac.uk Computer Science] at Univiersity of Birmingham, UK, advised by [http://www.cs.bham.ac.uk/~szh Dr Shan He]. My main interests are computational biology and machine learning.
 
 == Projects
 
@@ -17,7 +17,7 @@ A series of short tutorials given by me at our group meeting. The aim is to prov
 ~~~
 Current content (keep updating)
 - [https://fairmiracle.github.io/st/spectr.html Spectral Clustering]
-- Network Inference
+- [https://github.com/fairmiracle/Short-Tutorials/blob/master/Inference/MF_GRN_Inference.pdf Network Inference]
 - Modules Differential Analysis
 - [https://www.synapse.org/\#!Synapse:syn7136340/wiki/403063 Modules Identification]
 - High Performance Computing Programming
@@ -26,4 +26,4 @@ Current content (keep updating)
 ~~~
 
 == Contact
-donggeat AT gmail.com
+donggeat AT gmail.comm
