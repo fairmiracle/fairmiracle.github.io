@@ -1,6 +1,6 @@
 = Dong Li
 
-Hi, I am a second year PhD student in [https://www.cs.bham.ac.uk Computer Science] at Univiersity of Birmingham, UK, advised by [http://www.cs.bham.ac.uk/~szh Dr Shan He]. My main interests are computational biology and machine learning.
+Hi, I am a second year PhD student in [https://www.cs.bham.ac.uk Computer Science] at University of Birmingham, UK, advised by [http://www.cs.bham.ac.uk/~szh Dr Shan He]. My main interests are computational biology and machine learning.
 
 == Projects
 
@@ -26,11 +26,12 @@ A series of short tutorials given by me at our group meeting. The aim is to prov
 
 ~~~
 Current content (keep updating)
-- [https://fairmiracle.github.io/st/spectr.html Spectral Clustering]
+- [http://www.cs.bham.ac.uk/~dxl466/st/spectr.html Spectral Clustering]
 - [https://github.com/fairmiracle/Short-Tutorials/blob/master/Inference/MF_GRN_Inference.pdf Network Inference]
-- Modules Differential Analysis
-- [https://www.synapse.org/\#!Synapse:syn7136340/wiki/403063 Modules Identification]
-- High Performance Computing Programming
+- [http://bioconductor.org/packages/devel/bioc/vignettes/MODA/inst/doc/MODA.html Modules Differential Analysis]
+- [https://www.synapse.org/\#!Synapse:syn7136340/wiki/403063 Modules Identification I: General]
+- [http://bioconductor.org/packages/devel/bioc/vignettes/AMOUNTAIN/inst/doc/AMOUNTAIN.html Modules Identification II: AMOUNTAIN]
+- [http://www.cs.bham.ac.uk/~dxl466/st/HPCP/hpc.html High Performance Computing Programming]
 - Network Visualization
 - Gene Set Enrichment Analysis
 ~~~
